@@ -753,6 +753,7 @@ lcms2
 ldapjdk
 ldns
 leapp
+leapp-repository
 lftp
 libICE
 libSM
