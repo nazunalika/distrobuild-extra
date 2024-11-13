@@ -183,6 +183,7 @@ dotnet5.0
 dotnet6.0
 dotnet7.0
 dotnet8.0
+dotnet9.0
 dovecot
 dpdk
 driverctl
@@ -1401,6 +1402,7 @@ perl-version
 pesign
 pg_repack
 pgaudit
+pgvector
 php
 php-pear
 php-pecl-apcu
