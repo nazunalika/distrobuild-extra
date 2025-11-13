@@ -184,6 +184,8 @@ dotnet6.0
 dotnet7.0
 dotnet8.0
 dotnet9.0
+dotnet10.0
+dotnet11.0
 dovecot
 dpdk
 driverctl
